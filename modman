@@ -1,1 +1,2 @@
-src/app/code/local/OpenMage/NamespaceTest   app/code/local/OpenMage/NamespaceTest
+src/app/code/local/OpenMage/NamespaceTest           app/code/local/OpenMage/NamespaceTest
+src/app/etc/modules/OpenMage_NamespaceTest.xml      app/etc/modules/OpenMage_NamespaceTest.xml
