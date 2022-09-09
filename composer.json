@@ -1,4 +1,5 @@
-    "name": "OpenMage/NamespaceTest",
+{
+    "name": "openmage/namespace-test",
     "license": "OSL-3.0",
     "type": "magento-module",
     "description": "Test for PR #1969",
