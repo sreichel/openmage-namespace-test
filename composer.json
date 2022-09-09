@@ -1,0 +1,8 @@
+    "name": "OpenMage/NamespaceTest",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Test for PR #1969",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
